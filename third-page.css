@@ -1,0 +1,55 @@
+.div-uno{
+background-color: aqua;
+width: 500px;
+}
+.div-due{
+    background-color: blue;
+    display: inline-block;
+    width: 300px;
+}
+.div-tre{
+    background-color: rgb(209, 34, 151);
+    display: inline;
+}
+.div-quattro{
+background-color: rgb(121, 243, 13);
+height: 300px;
+}
+.div-cinque{
+background-color: blueviolet;
+position: relative;
+left: 20px;
+top: 20px;
+height:300px;
+}
+.div-sei{
+background-color: rgb(185, 17, 96);
+position: absolute;
+top: 10px;
+right: 10px;
+height:300px;
+}
+.div-sette{
+background-color: aquamarine;
+height:300px;
+}
+.div-otto{
+background-color: orange;
+height: 100px;
+position: fixed;
+left: 20px;
+top: 20px;
+}
+.div-nove{
+background-color: rgb(231, 45, 45);
+height:500px ;
+width:500px ;
+position: relative;
+}
+.div-dieci{
+background-color: black;
+color: rgb(165, 98, 16);
+position: relative;
+height:50px ;
+width:50px ;
+}

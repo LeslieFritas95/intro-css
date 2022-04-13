@@ -1,0 +1,59 @@
+/*h1{
+    color:aquamarine
+    background: green
+    
+}
+*/
+html, body{
+    margin:0px;
+    padding:0px;
+    height:100%;
+    width: 100%;
+}
+.first-title{
+    color:red;
+    background-color: green;
+    /*width: 500px;
+    height: 200px;*/
+    width: 50%;
+    height: 20%;
+}
+
+.second-title{
+    color:yellow;
+    background-color:blue;
+}
+.small-title{
+    font-size: xx-small;
+}
+#title-with-name{
+    background-color: violet;
+}
+/*.div-contenitore h1{
+    background-color: blueviolet;
+}*/
+
+.first-title,.second-title,.small-title{
+    border-style: solid;
+}
+.container-div{
+    background-color: crimson;
+    width: 500px;
+    height: 150px;
+   /* margin: 80px;
+    padding: 30px;*/
+    margin:50px 20px;
+}
+.sub-title{
+    background-color: blue;
+    width: 50%;
+}
+.long-title{
+    background-color: rgb(209, 18, 18);
+    width: 80%;
+   /* min-width: 400px;*/
+   height: 60px;
+   /*overflow: hidden;*/
+   overflow:auto;
+
+}
